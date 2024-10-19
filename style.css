@@ -1,0 +1,43 @@
+#para{
+
+    color: cornflowerblue;
+    font-size: x-large;
+    font-family: cursive;
+    background-color: rgb(166, 255, 0);
+}
+#para-1{
+
+    color: deeppink;
+    font-family: cursive;
+    font-size: x-large;
+    background-color: blueviolet;
+}
+body{
+
+    background-color:sandybrown;
+}
+h1{
+    color: lightgray;
+}
+
+#word{
+    color: cornflowerblue;
+    font-size: x-large;
+    font-family: cursive;
+    background-color: rgb(166, 255, 0);
+
+    text-decoration: line-through;
+    text-transform: capitalize;
+}
+
+#shadow{
+
+    color: rgb(240, 128, 128);
+    font-size: x-large;
+    font-family: cursive;
+    text-shadow: 5px 6px 8px lightslategray;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 6px 8px darkred;
+
+}
